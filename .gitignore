@@ -1,8 +1,10 @@
 *.py[cod]
 *.db
 .idea
+.vscode
 dist/
 build/
 bgmi.egg-info
-download.xml
 .python-version
+.DS_Store
+*debug.sh
